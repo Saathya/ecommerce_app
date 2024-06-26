@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481961891035",
+    "project_id": "kuber-hub",
+    "storage_bucket": "kuber-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481961891035:android:7edd882172edd6e4b6a8fe",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481961891035-1f7tsi805l8tni398hsge12b1ac0suls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce_app",
+            "certificate_hash": "49e1bd22c7517f3f80b31d83361d3231d976f9d4"
+          }
+        },
+        {
+          "client_id": "481961891035-dr18ikskism1sfsmoglarosvsrhflcjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQynwqv6MNKupQKIdHCM4yPS5ogd-zFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481961891035-dr18ikskism1sfsmoglarosvsrhflcjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
