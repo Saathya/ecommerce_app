@@ -1,5 +1,5 @@
 const Map<String, String> firebaseConfig = {
-  "apiKey": "AIzaSyAJwQSckDC-DKYIxSfd5OROsmfJCsZOTcI",
+  "apiKey": "",
   "authDomain": "kuber-hub.firebaseapp.com",
   "projectId": "kuber-hub",
   "storageBucket": "kuber-hub.appspot.com",
